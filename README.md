@@ -30,6 +30,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Refresh my knowledge for HTML and CSS
 - Learn how to work with Figma design file for project development
 
+## Deploying your project
+
+- [GitHub Pages] (https://nggeoktheng.github.io/qr-code-component/)
+
 ## Author
 
 - GitHub - [Ng Geok Theng](https://github.com/nggeoktheng)

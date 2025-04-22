@@ -55,3 +55,11 @@ p {
     letter-spacing: 0.2px;
     color: #68778D;
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
